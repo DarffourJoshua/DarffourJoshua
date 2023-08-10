@@ -7,6 +7,7 @@ I love to join communities and forums that love coding and using software to sol
 Web development | Project Management
 
 **Tools**
+<br />
 <img src="https://github.com/DarffourJoshua/DarffourJoshua/assets/94466008/f3fff05b-14b4-4cc7-8933-b0c6d4c79947" width="50" height="50" />
 <img src="https://github.com/DarffourJoshua/DarffourJoshua/assets/94466008/2bc64672-ce99-4524-b701-867da245ffe2" width="50" height="50" />
 <img src="https://github.com/DarffourJoshua/DarffourJoshua/assets/94466008/5877b3e5-f1c1-4451-9fde-c46ec5750d74" width="50" height="50" />

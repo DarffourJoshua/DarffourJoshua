@@ -1,4 +1,4 @@
-Hello there, I am Darffour Joshua, a student at All Nations University pursuing Computer Science and an intern at Trestle Academy.
+Hello there, I am Darffour Joshua, a student at All Nations University pursuing Computer Science and was an intern at Trestle Academy from 05/2022 - 12/2022.
 I love coding and have hands-on experience in HTML, CSS, and vanilla JS. I am currently learning React JS
 I am very interested in using software to solve real-life problems. Also, how a computer works and how computer hardware components are connected to provide some functionality.
 I love to join communities and forums that love coding and using software to solve problems.

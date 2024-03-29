@@ -19,8 +19,7 @@ Web development | Project Management | Data visualization and analytics.
 <img src="https://e7.pngegg.com/pngimages/969/723/png-clipart-functional-programming-in-python-computer-programming-programming-language-python-programming-practice-workshop-program-logo-text-logo-thumbnail.png" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" />
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*3GbLagVDPY9QKjjgB_Tfqw.png" width="50" height="50" />
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="50" height="50" />
 - I am currently working on this page
 - I am learning JS frameworks and libraries.
 - I recently started the journey of interpreting data for clients using Python libraries like pandas, numpy, seaborn, matplotlib, etc.

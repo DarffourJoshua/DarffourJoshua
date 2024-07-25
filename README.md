@@ -25,6 +25,7 @@ Web development | Project Management | Data visualization and analytics.
 - I recently started the journey of interpreting data for clients using Python libraries like pandas, numpy, seaborn, matplotlib, etc.
 - I have joined a group of React devs who are working tirelessly on developing software that helps students find jobs that are related to         their skill set.
 - I'm working on a web-based app for the district director of education to view the performance of senior high schools in the respective districts.
+- I am a software engineer fellow at Headstarter AI
 - How to reach me @darffour_joshua (Twitter), Joshua (Kyere) Darffour (LinkedIn)
 - Pronouns: He/Him
 - Fun fact: No B without BB

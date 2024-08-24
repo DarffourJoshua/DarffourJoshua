@@ -1,10 +1,8 @@
-Hello there, I am Darffour Joshua, a student at All Nations University pursuing Computer Science and was an intern at Trestle Academy from 05/2022 - 12/2022.
-I love coding and have hands-on experience in HTML, CSS, and vanilla JS. I am currently learning React JS
-I am very interested in using software to solve real-life problems. Also, how a computer works and how computer hardware components are connected to provide some functionality.
+I am Darffour Joshua a dedicated computer science student at All Nation University and a software engineer intern at Headstarter AI. With a strong foundation in web development built over the past two years, I am focused on creating dynamic and user-friendly web projects. This year, I have specialized in implementing sophisticated user authentication systems, including custom sign-in solutions and integration with third-party providers. Additionally, I have expanded my expertise by learning how to integrate AI APIs into web applications, enhancing client interactions with intelligent and responsive features. Driven by a passion for technology and innovation, I am committed to leveraging my skills to contribute to transformative projects in the tech industry.
 I love to join communities and forums that love coding and using software to solve problems.
 
 **Skills**
-Web development | Project Management | Data visualization and analytics.
+Software development | Project Management | Data Science.
 
 **Tools**
 <br />
@@ -22,9 +20,7 @@ Web development | Project Management | Data visualization and analytics.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="50" height="50" />
 - I am currently working on this page
 - I am learning JS frameworks and libraries.
-- I recently started the journey of interpreting data for clients using Python libraries like pandas, numpy, seaborn, matplotlib, etc.
-- I have joined a group of React devs who are working tirelessly on developing software that helps students find jobs that are related to         their skill set.
-- I'm working on a web-based app for the district director of education to view the performance of senior high schools in the respective districts.
+- I recently started the journey of interpreting data for clients using Python libraries like pandas, numpy, seaborn, matplotlib, etc
 - I am a software engineer fellow at Headstarter AI
 - How to reach me @darffour_joshua (Twitter), Joshua (Kyere) Darffour (LinkedIn)
 - Pronouns: He/Him
